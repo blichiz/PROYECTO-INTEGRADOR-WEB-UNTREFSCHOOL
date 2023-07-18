@@ -92,7 +92,7 @@ footer {
 }
 
 .autor {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   left: 0;
   color: #eff5f5;
