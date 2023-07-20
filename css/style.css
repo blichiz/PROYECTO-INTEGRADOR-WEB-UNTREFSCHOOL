@@ -1,4 +1,6 @@
-
+p {
+    font-family: 'Poppins', sans-serif;
+}
 .titulo {
     display: flex;
     margin: auto;
@@ -40,6 +42,7 @@ nav {
 
 .quienes{
     text-align: justify;
+    text-align: left;
   
 }
 
