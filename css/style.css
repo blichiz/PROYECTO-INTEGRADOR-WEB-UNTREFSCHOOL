@@ -29,7 +29,7 @@ nav {
 }
 /* contenedor 1 de quienes somos */
 .contenedor{
-    display: flexbox;
+    
     width: 80%;
     margin: auto;
     padding: 2rem 0;
