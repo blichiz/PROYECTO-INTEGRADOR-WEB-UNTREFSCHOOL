@@ -55,7 +55,9 @@ nav {
     /* La altura se ajusta proporcionalmente según el ancho para mantener la relación de aspecto original */
 }
 
-
+.margen{
+    margin-top: 2rem;
+}
 /* seccion de redes */
 .red {
     width: 100%;
@@ -87,8 +89,6 @@ li img {
     /* Cada columna ocupa el 25% del ancho de la fila (4 columnas en total) */
     max-width: 25%;
     /* Evita que las imágenes se desborden de la columna */
-    padding: 2rem;
-    /* Agrega espacio interno en las columnas */
 }
 
 /* SECCIÓN DE FOOTER */
