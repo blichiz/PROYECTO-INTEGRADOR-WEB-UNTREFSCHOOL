@@ -1,0 +1,33 @@
+.titulo {
+    text-align: center;
+    background: #181823;
+    color: #eff5f5;
+    text-shadow: 1px 1px 1px #fc7300;
+}
+
+.img-fluid {
+    width: 30%; /* Las imágenes ocupan el 100% del ancho de sus contenedores */
+    height: auto; /* La altura se ajusta proporcionalmente según el ancho para mantener la relación de aspecto original */
+}
+.red {
+    list-style-type: none;
+    padding: 0;
+  }
+  .redes {
+    display: flex; /* Convierte los elementos li en contenedores flexibles */
+    align-items: center; /* Centra verticalmente los elementos dentro del li */
+    margin-bottom: 10px; /* Espacio entre cada elemento li */
+  }
+  
+  li img {
+    margin-right: 10px; /* Espacio entre el icono y el texto (ajusta este valor según tu preferencia) */
+  }
+  
+  .row .col-lg-3 {
+    flex-basis: 25%; /* Cada columna ocupa el 25% del ancho de la fila (4 columnas en total) */
+    max-width: 25%; /* Evita que las imágenes se desborden de la columna */
+    padding: 2rem; /* Agrega espacio interno en las columnas */
+  }
+  
+  
+  
